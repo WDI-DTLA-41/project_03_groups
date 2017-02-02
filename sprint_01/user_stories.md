@@ -1,8 +1,6 @@
 # Simple Blog with Comments
 
-You've been tasked with building a [Medium clone for developers](https://medium.com/@fat).
-
-# User Stories
+## User Stories
 
 - [ ] As a user, I want to be able to sign in with Github
 - [ ] As a first time sign up, I want to be automatically assigned a new blog
